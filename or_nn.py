@@ -22,7 +22,7 @@ X = np.array([[0,0,1],
 
 # output dataset
 
-y =	np.array([[0,0,0,1]]).T
+y =	np.array([[0,1,1,1]]).T
 
 np.random.seed(1)
 
